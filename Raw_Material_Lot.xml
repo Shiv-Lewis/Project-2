@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ToyCompany>
+  <Raw_Material_Lot>
+    <Raw_Material_ID>103</Raw_Material_ID>
+    <Lot_ID>5</Lot_ID>
+    <Total_Unit>32</Total_Unit>
+  </Raw_Material_Lot>
+  <Raw_Material_Lot>
+    <Raw_Material_ID>101</Raw_Material_ID>
+    <Lot_ID>2</Lot_ID>
+    <Total_Unit>28</Total_Unit>
+  </Raw_Material_Lot>
+  <Raw_Material_Lot>
+    <Raw_Material_ID>103</Raw_Material_ID>
+    <Lot_ID>1</Lot_ID>
+    <Total_Unit>35</Total_Unit>
+  </Raw_Material_Lot>
+  <Raw_Material_Lot>
+    <Raw_Material_ID>102</Raw_Material_ID>
+    <Lot_ID>4</Lot_ID>
+    <Total_Unit>25</Total_Unit>
+  </Raw_Material_Lot>
+  <Raw_Material_Lot>
+    <Raw_Material_ID>100</Raw_Material_ID>
+    <Lot_ID>3</Lot_ID>
+    <Total_Unit>50</Total_Unit>
+  </Raw_Material_Lot>
+</ToyCompany>
